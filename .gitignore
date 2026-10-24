@@ -1,0 +1,7 @@
+sim/xsim.dir/
+sim/work_*.log
+sim/*.jou
+sim/*.log
+sim/*.pb
+sim/*.wdb
+sim/.Xil/
