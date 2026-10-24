@@ -94,3 +94,7 @@ The bench runs twice, with `INVERT` false and true. It checks:
 AM-modulated IRIG-B (B12x, 1 kHz carrier) needs an ADC and a DAC. Leap-second
 and time-zone handling are left to the user (the control-function bits pass
 through raw).
+
+## License
+
+MIT; see [LICENSE](LICENSE).
